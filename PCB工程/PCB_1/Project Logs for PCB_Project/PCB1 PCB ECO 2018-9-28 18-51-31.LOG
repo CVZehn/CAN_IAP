@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=24C02_SDA Pin=*1-56
+Removed Pin From Net: NetName=24C02_SCL Pin=*1-57
+Removed Pin From Net: NetName=24C02_WP Pin=*1-58
+Added Pin To Net: NetName=24C02_SDA Pin=*1-49
+Added Pin To Net: NetName=24C02_SCL Pin=*1-50
+Added Pin To Net: NetName=24C02_WP Pin=*1-51
+Added Room: Name=Sheet1

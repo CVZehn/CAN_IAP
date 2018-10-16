@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=24C02_SDA Pin=*1-50
+Removed Pin From Net: NetName=24C02_SCL Pin=*1-51
+Removed Pin From Net: NetName=24C02_WP Pin=*1-52
+Added Pin To Net: NetName=24C02_WP Pin=*1-8
+Added Pin To Net: NetName=24C02_SCL Pin=*1-9
+Added Pin To Net: NetName=24C02_SDA Pin=*1-10

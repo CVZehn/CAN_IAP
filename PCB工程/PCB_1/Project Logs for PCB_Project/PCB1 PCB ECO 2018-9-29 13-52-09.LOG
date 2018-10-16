@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CH340_DTR Pin=*1-21
+Removed Pin From Net: NetName=CH340_RTS Pin=*1-22
+Added Pin To Net: NetName=CH340_DTR Pin=*1-55
+Added Pin To Net: NetName=CH340_RTS Pin=*1-56

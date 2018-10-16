@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Added Component: Designator=D?(LED_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "LED_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BLUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R11-1
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED
+Added Room: Name=Sheet1

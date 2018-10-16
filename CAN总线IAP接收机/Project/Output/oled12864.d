@@ -1,0 +1,16 @@
+..\output\oled12864.o: ..\..\APP\Oled\OLED12864.c
+..\output\oled12864.o: ..\..\APP\Oled\codetab.h
+..\output\oled12864.o: ..\..\APP\Oled\LQ12864.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\CMSIS\core_cm3.h
+..\output\oled12864.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\CMSIS\system_stm32f10x.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\System\stm32f10x_conf.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_tim.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_usart.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\FWlib\inc\misc.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\System\delay\delay.h
+..\output\oled12864.o: ..\..\Bsp\Libraries\System\sys\sys.h

@@ -1,0 +1,14 @@
+..\output\timer.o: ..\..\APP\TIMER\timer.c
+..\output\timer.o: ..\..\APP\TIMER\timer.h
+..\output\timer.o: ..\..\Bsp\Libraries\System\sys\sys.h
+..\output\timer.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\timer.o: ..\..\Bsp\Libraries\CMSIS\core_cm3.h
+..\output\timer.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\timer.o: ..\..\Bsp\Libraries\CMSIS\system_stm32f10x.h
+..\output\timer.o: ..\..\Bsp\Libraries\System\stm32f10x_conf.h
+..\output\timer.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\timer.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\timer.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\timer.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_tim.h
+..\output\timer.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_usart.h
+..\output\timer.o: ..\..\Bsp\Libraries\FWlib\inc\misc.h

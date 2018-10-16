@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=*3-1
+Removed Pin From Net: NetName=GND Pin=*3-2
+Removed Pin From Net: NetName=OlED_SDA Pin=*3-3
+Removed Pin From Net: NetName=OLED_SCL Pin=*3-4
+Added Pin To Net: NetName=3.3V Pin=*3-3
+Added Pin To Net: NetName=GND Pin=*3-4
+Added Pin To Net: NetName=OlED_SDA Pin=*3-5
+Added Pin To Net: NetName=OLED_SCL Pin=*3-6
+Added Room: Name=Sheet1

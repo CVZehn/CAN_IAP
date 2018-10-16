@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=RXD Pin=*1-42
+Added Pin To Net: NetName=TXD Pin=*1-43
+Added Room: Name=Sheet1

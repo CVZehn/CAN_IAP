@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED1 Pin=*1-52
+Removed Pin From Net: NetName=LED2 Pin=*1-53
+Removed Pin From Net: NetName=LED3 Pin=*1-54
+Added Pin To Net: NetName=LED3 Pin=*1-24
+Added Pin To Net: NetName=LED2 Pin=*1-25
+Added Pin To Net: NetName=LED1 Pin=*1-26

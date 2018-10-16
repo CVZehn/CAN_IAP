@@ -1,0 +1,36 @@
+SET PATH=D:\keil\ARM\ARMCC\Bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Users\Zehn\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;E:\MATLABE\runtime\win64;E:\MATLABE\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Git\cmd;D:\bin;C:\Users\Zehn\AppData\Local\Microsoft\WindowsApps;;D:\ModelSim\modelsim_ase\win32aloem;C:\altera\13.1\modelsim_ase\win32aloem
+SET CPU_TYPE=STM32F103C8
+SET CPU_VENDOR=STMicroelectronics
+SET UV2_TARGET=USART
+SET CPU_CLOCK=0x00B71B00
+"D:\keil\ARM\ARMCC\Bin\ArmAsm" --Via "..\..\output\startup_stm32f10x_hd._ia"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\core_cm3.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\system_stm32f10x.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\misc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_adc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_bkp.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_can.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_cec.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_crc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_dac.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_dbgmcu.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_dma.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_exti.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_flash.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_fsmc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_gpio.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_i2c.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_iwdg.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_pwr.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_rcc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_rtc.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_sdio.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_spi.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_tim.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_usart.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_wwdg.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\main.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\stm32f10x_it.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmCC" --Via "..\..\output\bsp_usart.__i"
+"D:\keil\ARM\ARMCC\Bin\ArmLink" --Via "..\..\Output\USART.lnp"
+D:\keil\ARM\ARMCC\bin\fromelf.exe?--bin -o ?./Output/USART.bin ?./Output/USART.axf

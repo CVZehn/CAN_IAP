@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=24C02_SDA Pin=R16-1
+Removed Pin From Net: NetName=24C02_SDA Pin=U3-5
+Removed Pin From Net: NetName=24C02_WP Pin=U3-7
+Added Pin To Net: NetName=24C02_WP Pin=R16-1
+Added Pin To Net: NetName=24C02_WP Pin=U3-5
+Added Pin To Net: NetName=24C02_SDA Pin=U3-7

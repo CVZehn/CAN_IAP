@@ -1,0 +1,13 @@
+..\output\bsp_key.o: ..\..\APP\Key\bsp_key.c
+..\output\bsp_key.o: ..\..\APP\Key\bsp_key.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\CMSIS\core_cm3.h
+..\output\bsp_key.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\CMSIS\system_stm32f10x.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\System\stm32f10x_conf.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_tim.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_usart.h
+..\output\bsp_key.o: ..\..\Bsp\Libraries\FWlib\inc\misc.h

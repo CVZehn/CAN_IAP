@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=OSCIN Pin=C18-1
+Removed Pin From Net: NetName=OSCOUT Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=OSCOUT Pin=Y1-1
+Removed Pin From Net: NetName=OSCIN Pin=Y1-2
+Added Pin To Net: NetName=OSCOUT Pin=C18-1
+Added Pin To Net: NetName=OSCIN Pin=C19-1
+Added Pin To Net: NetName=OSCIN Pin=Y1-1
+Added Pin To Net: NetName=OSCOUT Pin=Y1-2
+Added Room: Name=Sheet1

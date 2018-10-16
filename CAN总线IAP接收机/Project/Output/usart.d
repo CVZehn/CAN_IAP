@@ -1,0 +1,15 @@
+..\output\usart.o: ..\..\Bsp\Libraries\System\usart\usart.c
+..\output\usart.o: ..\..\Bsp\Libraries\System\sys\sys.h
+..\output\usart.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\usart.o: ..\..\Bsp\Libraries\CMSIS\core_cm3.h
+..\output\usart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\usart.o: ..\..\Bsp\Libraries\CMSIS\system_stm32f10x.h
+..\output\usart.o: ..\..\Bsp\Libraries\System\stm32f10x_conf.h
+..\output\usart.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\usart.o: ..\..\Bsp\Libraries\CMSIS\stm32f10x.h
+..\output\usart.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\usart.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_tim.h
+..\output\usart.o: ..\..\Bsp\Libraries\FWlib\inc\stm32f10x_usart.h
+..\output\usart.o: ..\..\Bsp\Libraries\FWlib\inc\misc.h
+..\output\usart.o: ..\..\Bsp\Libraries\System\usart\usart.h
+..\output\usart.o: D:\keil\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=OLED_SCL Pin=*3-3
+Removed Pin From Net: NetName=OlED_SDA Pin=*3-4
+Removed Pin From Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=OlED_SDA Pin=*3-3
+Added Pin To Net: NetName=OLED_SCL Pin=*3-4
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Net: Name=3V3

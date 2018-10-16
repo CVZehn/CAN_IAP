@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CAN_RX Pin=*1-44
+Added Pin To Net: NetName=CAN_TX Pin=*1-45
+Added Room: Name=Sheet1
